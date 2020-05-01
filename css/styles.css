@@ -1,0 +1,100 @@
+body{
+	
+	font-family: 'Open Sans', sans-serif;
+}
+
+.Content
+{
+	
+	border-style: solid;
+	border-width: 0px;
+	border-color: #0000;
+
+	background-color: #204051;
+	display: block;
+	width: 800px;
+	margin-top: 30px;
+	margin-left: 30px;
+	
+
+
+}
+
+/*
+border-style: solid;
+	border-color: #0000;
+		line-height: 5px;
+			margin-top: 10px;
+*/
+
+.Header
+{
+	background-color: #204051;
+	border-style: solid;
+	border-color: #204051;
+
+    border-width: 5px;
+    line-height: 5px;
+	color: #FFFFFF;
+    margin-top: 20px;
+
+
+
+
+}
+
+.Header h1
+{
+	font-size: 2rem;
+	padding: 20px 20px 20px 20px;
+}
+
+.Header p
+{
+		font-size: 12px;
+		padding: 0px 0px 0px 20px;
+
+}
+
+.Experiencia
+{
+   margin-left: 2px;
+   margin-top: 20px;
+   padding-top: 30px;
+   background-color: #cae8d5;
+   border-color: #204051;
+   border-style: solid;
+   border-width: 4px;	
+}
+
+.Experiencia h1
+{
+	color: #204051;
+	font-size: 1rem;
+
+}
+
+.Experiencia h2
+{
+
+	font-size: 0.7rem;
+
+}
+
+.contenido
+{
+	display: block;
+	line-height: 5px;
+	padding-left: 20px; 
+}
+
+.contenido p
+{
+	font-size: 12px
+}
+
+.contenido ul
+{
+	line-height: 1.5rem;
+	font-size: 0.7rem;
+}
