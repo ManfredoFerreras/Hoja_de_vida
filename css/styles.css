@@ -27,6 +27,11 @@ border-style: solid;
 			margin-top: 10px;
 */
 
+#Header-navbar
+{
+	text-align: right;
+}
+
 .Header
 {
 	background-color: #204051;
@@ -47,6 +52,7 @@ border-style: solid;
 {
 	font-size: 2rem;
 	padding: 20px 20px 20px 20px;
+	line-height: 2rem;
 }
 
 .Header p
