@@ -52,7 +52,6 @@ border-style: solid;
 {
 	font-size: 2rem;
 	padding: 20px 20px 20px 20px;
-	line-height: 5rem;
 }
 
 .Header p
@@ -103,4 +102,10 @@ border-style: solid;
 {
 	line-height: 1.5rem;
 	font-size: 0.7rem;
+}
+
+.contenido h1
+{
+	line-height: 2.5rem;
+	padding: 20px 20px 20px 20px;
 }
